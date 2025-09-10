@@ -91,7 +91,7 @@ Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Con
 <img 
     align="left" 
     alt="Python" 
-    title="Java"
+    title="SqlLite"
     width="30px" 
     style="padding-right: 10px;" 
     src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />" 
