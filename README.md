@@ -82,7 +82,7 @@ Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Con
 />
 <img 
     align="left" 
-    alt="Python" 
+    alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
@@ -90,7 +90,7 @@ Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Con
 />
 <img 
     align="left" 
-    alt="Python" 
+    alt="SqlLite" 
     title="SqlLite"
     width="30px" 
     style="padding-right: 10px;" 
