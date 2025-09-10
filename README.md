@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Jardim São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonadp por tecnologia e atualmente estou direcionando meus estudos para o desenvolvimento de software, com foco em boas práticas de programação e aprendizado contínuo na área de tecnologia.
+Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Jardim São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. No período atual, estou aprofundando meus conhecimentos em programação e desenvolvimento de software. Tenho como objetivo construir uma carreira sólida na área de tecnologia, atuando em projetos que envolvam inovação e impacto positivo. Busco constantemente aprender novas ferramentas, aprimorar minhas habilidades técnicas e desenvolver soluções que unam eficiência e criatividade.
 
 ---
 
