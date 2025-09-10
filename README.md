@@ -80,22 +80,15 @@ Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Con
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
+<img
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Python" 
+    title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="SqlLite" 
-    title="SqlLite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />" 
-/>
+          
 
 <br/>
 <br/>
