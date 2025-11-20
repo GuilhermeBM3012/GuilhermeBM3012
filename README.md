@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Barone Milani
+# 🧑🏽‍💻 Guilherme Barone Milani
 
 **`Estudante de Engenharia de Software`**
 
