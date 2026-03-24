@@ -76,15 +76,14 @@ Me chamo Guilherme Barone Milani, tenho 18 anos e sou natural de São Paulo. Con
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=GuilhermeBM3012&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=GuilhermeBM3012&show_icons=true&theme=tokyonight"
     />
-
     <img
         align="left"
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=GuilhermeBM3012&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=GuilhermeBM3012&show_icons=true&theme=tokyonight"
     />
 </p>
 
